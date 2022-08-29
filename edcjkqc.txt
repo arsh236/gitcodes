@@ -1,1 +1,7 @@
-AD EF AS
+git init 
+git status
+git add -A
+git commit -m "msg"
+git remote add ‏(name)  (path)
+git remote -v
+git push (name)  master
